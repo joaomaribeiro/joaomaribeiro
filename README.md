@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Joao!
+- 🌻 I'm autistic.
 - 👀 I’m interested in learning how to code :)
 - 🌱 I’m currently learning Javascript and basic Python. Looking forward to learn some backend. 
 - 💞️ I’m not currently looking to collaborate, as I'm pretty much dumb on coding.
